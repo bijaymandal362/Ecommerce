@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="565a408d89ef4cfd93f16d9c66833b85" Name="Diagram1">
+        <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblRole" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblUser" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblUserRole" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="E_CommerceWebsiteModel.FK_tblUserRole_tblRole" ManuallyRouted="false" />
+        <AssociationConnector Association="E_CommerceWebsiteModel.FK_tblUserRole_tblUser" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblCategory" Width="1.5" PointX="3.375" PointY="4.375" />
+        <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblProduct" Width="1.5" PointX="5.625" PointY="3.75" />
+        <AssociationConnector Association="E_CommerceWebsiteModel.FK_tblProduct_tblCategory" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

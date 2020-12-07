@@ -1,0 +1,38 @@
+﻿@model WebApplicationECommerceWebsite.Models.ViewModel.CategoryViewModel
+
+@{
+    Layout = null;
+}
+    <form name="CategoryForm">
+
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>@ViewBag.Action</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+     
+                @Html.HiddenFor(model => model.CategoryId)
+
+          
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CategoryName, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.CategoryName )
+                    @Html.ValidationMessageFor(model => model.CategoryName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+
+                    <button type="button" class="btn btn-info" onclick="createOrUpdate()">SUBMIT</button>
+                    <button type="button" class="btn btn-warning" data-dismiss="modal">CANCEL</button>
+                </div>
+            </div>
+        </div>
+        </form>
+
+
+
