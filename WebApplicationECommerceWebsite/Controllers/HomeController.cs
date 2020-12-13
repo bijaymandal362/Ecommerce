@@ -73,7 +73,11 @@ namespace WebApplicationECommerceWebsite.Controllers
 
 
         }
-
+   
+        public ActionResult ViewItem(int id)
+        {
+            return PartialView("_ViewItem", db.tblProducts.Find(id));
+        }
 
 
     }

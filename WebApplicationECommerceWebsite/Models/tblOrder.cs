@@ -12,27 +12,26 @@ namespace WebApplicationECommerceWebsite.Models
     using System;
     using System.Collections.Generic;
     
-    public partial class tblProduct
+    public partial class tblOrder
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public tblProduct()
+        public tblOrder()
         {
-            this.tblCarts = new HashSet<tblCart>();
             this.tblOrderDetails = new HashSet<tblOrderDetail>();
         }
     
-        public int ProductId { get; set; }
-        public Nullable<int> CategoryId { get; set; }
-        public string ProductName { get; set; }
-        public string Description { get; set; }
-        public Nullable<decimal> UnitPrice { get; set; }
-        public Nullable<decimal> SellingPrice { get; set; }
-        public string Photo { get; set; }
-        public Nullable<bool> IsSpecial { get; set; }
+        public int OrderId { get; set; }
+        public string Username { get; set; }
+        public string Firstname { get; set; }
+        public string Lastname { get; set; }
+        public string Address { get; set; }
+        public string Phone { get; set; }
+        public Nullable<decimal> Total { get; set; }
+        public Nullable<System.DateTime> OrderDate { get; set; }
+        public string DeliveredStatus { get; set; }
+        public string Latitude { get; set; }
+        public string Longitude { get; set; }
     
-        public virtual tblCategory tblCategory { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<tblCart> tblCarts { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<tblOrderDetail> tblOrderDetails { get; set; }
     }

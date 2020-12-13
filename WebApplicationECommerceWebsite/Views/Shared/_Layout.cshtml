@@ -84,10 +84,9 @@
             <li class="active"><a href="index.html"><em class="fa fa-dashboard">&nbsp;</em> Dashboard</a></li>
             <li><a href="@Url.Action("ManageCategory","Category")"><em class="fa fa-calendar">&nbsp;</em> Manage Category</a></li>
             <li><a href="@Url.Action("ManageProduct","Product")"><em class="fa fa-bar-chart">&nbsp;</em> Manage Product</a></li>
-            @if (User.IsInRole("Admin"))
-            {
-                <li><a href="#"><em class="fa fa-toggle-off">&nbsp;</em> Manage User</a></li>
-            }
+            <li><a href="@Url.Action("ManageOrder","Order")"><em class="fa fa-book">&nbsp;</em> Manage Order</a></li>
+            <li><a href="@Url.Action("ManageUser","ManageUser")"><em class="fa fa-toggle-off">&nbsp;</em> Manage User</a></li>
+
 
             <li><a href="@Url.Action("ChangePassword","Account")"><em class="fa fa-clone">&nbsp;</em> Change Password</a></li>
 

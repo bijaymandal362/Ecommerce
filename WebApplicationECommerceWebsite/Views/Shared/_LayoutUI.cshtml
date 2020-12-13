@@ -74,9 +74,8 @@
             <div class="head-t">
                 <ul class="card">
 
-                    <li><a href="@Url.Action("Login","Account")"><i class="fa fa-user" aria-hidden="true"></i>Login</a></li>
-                    <li><a href="@Url.Action("Signup","Home")"><i class="fa fa-arrow-right" aria-hidden="true"></i>Register</a></li>
-                    <li><a href="#"><i class="fa fa-file-text-o" aria-hidden="true"></i>@User.Identity.Name</a></li>
+
+                    <li><a href="#"><i class="fa fa-file-text-o" aria-hidden="true"></i>Welcome: @User.Identity.Name</a></li>
 
                 </ul>
             </div>
@@ -115,7 +114,15 @@
                                     <li><a href="@Url.Action("ProductList","Home",new { id = item.CategoryId })" class="hyper">@item.CategoryName</a></li>
                                 }
                             }
+                            @if (Request.IsAuthenticated)
+                            {
+                                <li><a href="@Url.Action("Logout", "Account")" class="hyper"><span>Logout</span></a></li>
 
+                            }
+                            else
+                            {
+                                <li><a href="@Url.Action("Login", "Account")" class="hyper"><span>Login</span></a></li>
+                            }
 
                             <li><a href="#" class="hyper"><span>Contact Us</span></a></li>
                         </ul>

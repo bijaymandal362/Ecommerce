@@ -35,7 +35,15 @@ namespace WebApplicationECommerceWebsite.Controllers
                     }
                     else
                     {
-                        return RedirectToAction("Dashboard", "Admin");
+                        if (user.tblUserRoles.Where(r => r.RoleId == 1).FirstOrDefault() != null)
+                        {
+                            return RedirectToAction("Dashboard", "Admin");
+                        }
+                        else
+                        {
+                            return RedirectToAction("Index", "Home");
+                        }
+
                     }
 
                 }

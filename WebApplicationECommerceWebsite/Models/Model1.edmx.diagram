@@ -11,8 +11,14 @@
         <AssociationConnector Association="E_CommerceWebsiteModel.FK_tblUserRole_tblRole" ManuallyRouted="false" />
         <AssociationConnector Association="E_CommerceWebsiteModel.FK_tblUserRole_tblUser" ManuallyRouted="false" />
         <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblCategory" Width="1.5" PointX="3.375" PointY="4.375" />
-        <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblProduct" Width="1.5" PointX="5.625" PointY="3.75" />
+        <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblProduct" Width="1.5" PointX="5.5" PointY="5.625" />
         <AssociationConnector Association="E_CommerceWebsiteModel.FK_tblProduct_tblCategory" />
+        <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblCart" Width="1.5" PointX="7.875" PointY="8.5" />
+        <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblOrder" Width="1.5" PointX="5.625" PointY="0.75" />
+        <EntityTypeShape EntityType="E_CommerceWebsiteModel.tblOrderDetail" Width="1.5" PointX="7.875" PointY="5.25" />
+        <AssociationConnector Association="E_CommerceWebsiteModel.FK_tblCart_tblProduct" />
+        <AssociationConnector Association="E_CommerceWebsiteModel.FK_tblOrderDetail_tblOrder" />
+        <AssociationConnector Association="E_CommerceWebsiteModel.FK_tblOrderDetail_tblProduct" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

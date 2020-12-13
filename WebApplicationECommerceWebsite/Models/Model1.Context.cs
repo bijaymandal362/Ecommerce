@@ -30,5 +30,8 @@ namespace WebApplicationECommerceWebsite.Models
         public virtual DbSet<tblUserRole> tblUserRoles { get; set; }
         public virtual DbSet<tblCategory> tblCategories { get; set; }
         public virtual DbSet<tblProduct> tblProducts { get; set; }
+        public virtual DbSet<tblCart> tblCarts { get; set; }
+        public virtual DbSet<tblOrder> tblOrders { get; set; }
+        public virtual DbSet<tblOrderDetail> tblOrderDetails { get; set; }
     }
 }
