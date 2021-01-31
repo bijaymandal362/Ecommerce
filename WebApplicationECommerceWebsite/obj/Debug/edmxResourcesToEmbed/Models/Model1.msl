@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="E_CommerceWebsiteModelStoreContainer" CdmEntityContainer="E_CommerceWebsiteEntities">
+    <EntitySetMapping Name="tblRoles">
+      <EntityTypeMapping TypeName="E_CommerceWebsiteModel.tblRole">
+        <MappingFragment StoreEntitySet="tblRole">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUsers">
+      <EntityTypeMapping TypeName="E_CommerceWebsiteModel.tblUser">
+        <MappingFragment StoreEntitySet="tblUser">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Fullname" ColumnName="Fullname" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUserRoles">
+      <EntityTypeMapping TypeName="E_CommerceWebsiteModel.tblUserRole">
+        <MappingFragment StoreEntitySet="tblUserRole">
+          <ScalarProperty Name="UserRoleId" ColumnName="UserRoleId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCategories">
+      <EntityTypeMapping TypeName="E_CommerceWebsiteModel.tblCategory">
+        <MappingFragment StoreEntitySet="tblCategory">
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblProducts">
+      <EntityTypeMapping TypeName="E_CommerceWebsiteModel.tblProduct">
+        <MappingFragment StoreEntitySet="tblProduct">
+          <ScalarProperty Name="IsSpecial" ColumnName="IsSpecial" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="SellingPrice" ColumnName="SellingPrice" />
+          <ScalarProperty Name="UnitPrice" ColumnName="UnitPrice" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCarts">
+      <EntityTypeMapping TypeName="E_CommerceWebsiteModel.tblCart">
+        <MappingFragment StoreEntitySet="tblCart">
+          <ScalarProperty Name="DateCreated" ColumnName="DateCreated" />
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+          <ScalarProperty Name="CartId" ColumnName="CartId" />
+          <ScalarProperty Name="RecordId" ColumnName="RecordId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblOrders">
+      <EntityTypeMapping TypeName="E_CommerceWebsiteModel.tblOrder">
+        <MappingFragment StoreEntitySet="tblOrder">
+          <ScalarProperty Name="Longitude" ColumnName="Longitude" />
+          <ScalarProperty Name="Latitude" ColumnName="Latitude" />
+          <ScalarProperty Name="DeliveredStatus" ColumnName="DeliveredStatus" />
+          <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblOrderDetails">
+      <EntityTypeMapping TypeName="E_CommerceWebsiteModel.tblOrderDetail">
+        <MappingFragment StoreEntitySet="tblOrderDetail">
+          <ScalarProperty Name="UnitPrice" ColumnName="UnitPrice" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+          <ScalarProperty Name="OrderDetailId" ColumnName="OrderDetailId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

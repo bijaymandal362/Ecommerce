@@ -1,0 +1,431 @@
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\WebApplicationECommerceWebsite.dll.config
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\WebApplicationECommerceWebsite.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\WebApplicationECommerceWebsite.pdb
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\EntityFramework.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\WebGrease.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\EntityFramework.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.csproj.CopyComplete
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.pdb
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\MvcPagedList.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\PagedList.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\PagedList.Mvc.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\PagedList.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\PagedList.Mvc.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.TeamFoundation.Common.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.TeamFoundation.Common.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Dell\source\repos\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\WebApplicationECommerceWebsite.dll.config
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\WebApplicationECommerceWebsite.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\WebApplicationECommerceWebsite.pdb
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csc.exe
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csc.exe.config
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csc.rsp
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csi.exe
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csi.exe.config
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\csi.rsp
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Console.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\vbc.exe
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\vbc.exe.config
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\vbc.rsp
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\EntityFramework.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.TeamFoundation.Common.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\MvcPagedList.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\PagedList.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\PagedList.Mvc.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Net.Http.Formatting.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Helpers.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Mvc.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Optimization.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Razor.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\WebGrease.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\EntityFramework.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.TeamFoundation.Common.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\PagedList.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\PagedList.Mvc.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Net.Http.Formatting.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Helpers.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Mvc.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Optimization.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.Razor.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\bin\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.csprojAssemblyReference.cache
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.csproj.CopyComplete
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.dll
+C:\Users\Sushant Mandal\Desktop\WebApplicationECommerceWebsite\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.pdb
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.csprojAssemblyReference.cache
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.pdb
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\WebApplicationECommerceWebsite.dll.config
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\WebApplicationECommerceWebsite.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\WebApplicationECommerceWebsite.pdb
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\csc.exe
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\csc.exe.config
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\csc.rsp
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\csi.exe
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\csi.exe.config
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\csi.rsp
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Console.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\vbc.exe
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\vbc.exe.config
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\vbc.rsp
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\EntityFramework.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.TeamFoundation.Common.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\MvcPagedList.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\PagedList.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\PagedList.Mvc.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Net.Http.Formatting.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.Helpers.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.Mvc.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.Optimization.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.Razor.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.WebPages.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\WebGrease.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\EntityFramework.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.TeamFoundation.Common.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\PagedList.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\PagedList.Mvc.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Net.Http.Formatting.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.Helpers.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.Mvc.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.Optimization.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.Razor.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.WebPages.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\bin\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Sushant Mandal\Desktop\Ecommerce\WebApplicationECommerceWebsite\obj\Debug\WebApplicationECommerceWebsite.csproj.CopyComplete

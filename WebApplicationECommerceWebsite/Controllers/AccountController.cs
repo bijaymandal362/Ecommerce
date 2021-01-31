@@ -50,6 +50,7 @@ namespace WebApplicationECommerceWebsite.Controllers
                 else
                 {
                     ModelState.AddModelError("", "Invalid User");
+                    ViewBag.Action = "Invalid User";
                 }
                 return View();
             }

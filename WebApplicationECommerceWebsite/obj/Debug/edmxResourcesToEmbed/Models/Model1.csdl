@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="E_CommerceWebsiteModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblRole">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblUserRoles" Relationship="Self.FK_tblUserRole_tblRole" FromRole="tblRole" ToRole="tblUserRole" />
+  </EntityType>
+  <EntityType Name="tblUser">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fullname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblUserRoles" Relationship="Self.FK_tblUserRole_tblUser" FromRole="tblUser" ToRole="tblUserRole" />
+  </EntityType>
+  <EntityType Name="tblUserRole">
+    <Key>
+      <PropertyRef Name="UserRoleId" />
+    </Key>
+    <Property Name="UserRoleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" />
+    <Property Name="RoleId" Type="Int32" />
+    <NavigationProperty Name="tblRole" Relationship="Self.FK_tblUserRole_tblRole" FromRole="tblUserRole" ToRole="tblRole" />
+    <NavigationProperty Name="tblUser" Relationship="Self.FK_tblUserRole_tblUser" FromRole="tblUserRole" ToRole="tblUser" />
+  </EntityType>
+  <Association Name="FK_tblUserRole_tblRole">
+    <End Role="tblRole" Type="Self.tblRole" Multiplicity="0..1" />
+    <End Role="tblUserRole" Type="Self.tblUserRole" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblRole">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="tblUserRole">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserRole_tblUser">
+    <End Role="tblUser" Type="Self.tblUser" Multiplicity="0..1" />
+    <End Role="tblUserRole" Type="Self.tblUserRole" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUser">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="tblUserRole">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="E_CommerceWebsiteEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblRoles" EntityType="Self.tblRole" />
+    <EntitySet Name="tblUsers" EntityType="Self.tblUser" />
+    <EntitySet Name="tblUserRoles" EntityType="Self.tblUserRole" />
+    <AssociationSet Name="FK_tblUserRole_tblRole" Association="Self.FK_tblUserRole_tblRole">
+      <End Role="tblRole" EntitySet="tblRoles" />
+      <End Role="tblUserRole" EntitySet="tblUserRoles" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserRole_tblUser" Association="Self.FK_tblUserRole_tblUser">
+      <End Role="tblUser" EntitySet="tblUsers" />
+      <End Role="tblUserRole" EntitySet="tblUserRoles" />
+    </AssociationSet>
+    <EntitySet Name="tblCategories" EntityType="E_CommerceWebsiteModel.tblCategory" />
+    <EntitySet Name="tblProducts" EntityType="E_CommerceWebsiteModel.tblProduct" />
+    <AssociationSet Name="FK_tblProduct_tblCategory" Association="E_CommerceWebsiteModel.FK_tblProduct_tblCategory">
+      <End Role="tblCategory" EntitySet="tblCategories" />
+      <End Role="tblProduct" EntitySet="tblProducts" />
+    </AssociationSet>
+    <EntitySet Name="tblCarts" EntityType="E_CommerceWebsiteModel.tblCart" />
+    <EntitySet Name="tblOrders" EntityType="E_CommerceWebsiteModel.tblOrder" />
+    <EntitySet Name="tblOrderDetails" EntityType="E_CommerceWebsiteModel.tblOrderDetail" />
+    <AssociationSet Name="FK_tblCart_tblProduct" Association="E_CommerceWebsiteModel.FK_tblCart_tblProduct">
+      <End Role="tblProduct" EntitySet="tblProducts" />
+      <End Role="tblCart" EntitySet="tblCarts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblOrderDetail_tblOrder" Association="E_CommerceWebsiteModel.FK_tblOrderDetail_tblOrder">
+      <End Role="tblOrder" EntitySet="tblOrders" />
+      <End Role="tblOrderDetail" EntitySet="tblOrderDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblOrderDetail_tblProduct" Association="E_CommerceWebsiteModel.FK_tblOrderDetail_tblProduct">
+      <End Role="tblProduct" EntitySet="tblProducts" />
+      <End Role="tblOrderDetail" EntitySet="tblOrderDetails" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tblCategory">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblProducts" Relationship="E_CommerceWebsiteModel.FK_tblProduct_tblCategory" FromRole="tblCategory" ToRole="tblProduct" />
+  </EntityType>
+  <EntityType Name="tblProduct">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryId" Type="Int32" />
+    <Property Name="ProductName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UnitPrice" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="SellingPrice" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Photo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IsSpecial" Type="Boolean" />
+    <NavigationProperty Name="tblCategory" Relationship="E_CommerceWebsiteModel.FK_tblProduct_tblCategory" FromRole="tblProduct" ToRole="tblCategory" />
+    <NavigationProperty Name="tblCarts" Relationship="E_CommerceWebsiteModel.FK_tblCart_tblProduct" FromRole="tblProduct" ToRole="tblCart" />
+    <NavigationProperty Name="tblOrderDetails" Relationship="E_CommerceWebsiteModel.FK_tblOrderDetail_tblProduct" FromRole="tblProduct" ToRole="tblOrderDetail" />
+  </EntityType>
+  <Association Name="FK_tblProduct_tblCategory">
+    <End Type="E_CommerceWebsiteModel.tblCategory" Role="tblCategory" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="E_CommerceWebsiteModel.tblProduct" Role="tblProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblCategory">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="tblProduct">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="tblCart">
+    <Key>
+      <PropertyRef Name="RecordId" />
+    </Key>
+    <Property Name="RecordId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CartId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ProductId" Type="Int32" />
+    <Property Name="Count" Type="Int32" />
+    <Property Name="DateCreated" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="tblProduct" Relationship="E_CommerceWebsiteModel.FK_tblCart_tblProduct" FromRole="tblCart" ToRole="tblProduct" />
+  </EntityType>
+  <EntityType Name="tblOrder">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Firstname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Lastname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Total" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="OrderDate" Type="DateTime" Precision="0" />
+    <Property Name="DeliveredStatus" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Latitude" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Longitude" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblOrderDetails" Relationship="E_CommerceWebsiteModel.FK_tblOrderDetail_tblOrder" FromRole="tblOrder" ToRole="tblOrderDetail" />
+  </EntityType>
+  <EntityType Name="tblOrderDetail">
+    <Key>
+      <PropertyRef Name="OrderDetailId" />
+    </Key>
+    <Property Name="OrderDetailId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderId" Type="Int32" />
+    <Property Name="ProductId" Type="Int32" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="UnitPrice" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="tblOrder" Relationship="E_CommerceWebsiteModel.FK_tblOrderDetail_tblOrder" FromRole="tblOrderDetail" ToRole="tblOrder" />
+    <NavigationProperty Name="tblProduct" Relationship="E_CommerceWebsiteModel.FK_tblOrderDetail_tblProduct" FromRole="tblOrderDetail" ToRole="tblProduct" />
+  </EntityType>
+  <Association Name="FK_tblCart_tblProduct">
+    <End Type="E_CommerceWebsiteModel.tblProduct" Role="tblProduct" Multiplicity="0..1" />
+    <End Type="E_CommerceWebsiteModel.tblCart" Role="tblCart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblProduct">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="tblCart">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblOrderDetail_tblOrder">
+    <End Type="E_CommerceWebsiteModel.tblOrder" Role="tblOrder" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="E_CommerceWebsiteModel.tblOrderDetail" Role="tblOrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblOrder">
+        <PropertyRef Name="OrderId" />
+      </Principal>
+      <Dependent Role="tblOrderDetail">
+        <PropertyRef Name="OrderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblOrderDetail_tblProduct">
+    <End Type="E_CommerceWebsiteModel.tblProduct" Role="tblProduct" Multiplicity="0..1" />
+    <End Type="E_CommerceWebsiteModel.tblOrderDetail" Role="tblOrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblProduct">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="tblOrderDetail">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

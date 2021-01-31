@@ -27,6 +27,7 @@
                     {
                         @Html.AntiForgeryToken()
                     <fieldset>
+                        <h2 class="text-danger">@ViewBag.Action</h2>
                         <div class="form-group">
                             @Html.TextBoxFor(model => model.UserName, new { @class = "form-control", @placeholder = "Enter Username", @autofocus = "", @required = "required" })
 
